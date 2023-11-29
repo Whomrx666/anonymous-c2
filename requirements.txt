@@ -1,0 +1,4 @@
+colorama==0.4.6
+cloudscraper==1.2.71
+scapy==2.5.0
+requests==2.31.0
