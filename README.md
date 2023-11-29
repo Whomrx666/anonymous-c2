@@ -53,11 +53,6 @@ This is a DDOS tool {denial-of-service} by sending commands to botnet members. B
 - **Boost**: bost is the impetus that is on this tool
 - **bot**: an army of botnets that will run ddos
 
-
-
-## Warning
-Write using letters accompanied by numbers instead of using numbers, for example HTTP
-
 ### Original Author
 <a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
 
