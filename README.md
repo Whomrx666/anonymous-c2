@@ -5,13 +5,7 @@
 This is a DDOS tool {denial-of-service} by sending commands to botnet members. Botnet members can be called zombies and the botnet itself can be called a zombie army.
 
 ## Instalations
-<details open>
-    <summary><strong>How To Install:</strong></summary>
-    WATCH THIS !!<br>
-    -The Best Option-<br>
-    Byte Per Sec : 250 - 410 = Req : 55k [Verified]<br>
-    Thread : 250 - 420 = Req : 50k+ [Verified]<br>
-    
+
     -= Termux =-
 
     1. pkg update && pkg upgrade
