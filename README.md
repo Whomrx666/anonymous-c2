@@ -67,7 +67,7 @@ This is a DDOS tool {denial-of-service} by sending commands to botnet members. B
 [![Instagram](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)
 
 **If you want to donate, click on the button**
-<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-X tool-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Anonymous c2-yellow?style=for-the-badge&logo=github"></a>
 
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/Whomrx666/count.svg)
