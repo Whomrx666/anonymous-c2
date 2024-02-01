@@ -15,7 +15,8 @@ This is a DDOS tool {denial-of-service} by sending commands to botnet members. B
     5. git clone https://github.com/Whomrx666/anonymous-c2
     6. cd anonymous-c2
     7. pip install -r requirements.txt
-    8. python3 anonymous-c2.py
+    8. python -m pip install cloudscraper
+    9. python3 anonymous-c2.py
 
     -= Ubuntu =-
 
