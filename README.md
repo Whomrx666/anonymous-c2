@@ -16,7 +16,8 @@ This is a DDOS tool {denial-of-service} by sending commands to botnet members. B
     6. cd anonymous-c2
     7. pip install -r requirements.txt
     8. python -m pip install cloudscraper
-    9. python3 anonymous-c2.py
+    9. python -m pip install scapy
+    10. python3 anonymous-c2.py
 
     -= Ubuntu =-
 
