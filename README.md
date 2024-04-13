@@ -56,7 +56,7 @@ This is a DDOS tool {denial-of-service} by sending commands to botnet members. B
 - **bot**: an army of botnets that will run ddos
 
 ### Original Author
-<a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
+<a href="https://github.com/MrSanZz"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
 
 ## CONNECT WITH ME :
 
